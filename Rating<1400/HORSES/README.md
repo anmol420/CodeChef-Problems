@@ -1,4 +1,4 @@
 - **Name** - Racing Horses 
 - **Problem Code** - HORSES
-- **Level** - Beginner
+- **Level** - 1*Advanced
 - **Source** - [Link](https://www.codechef.com/practice/PJASOR01/problems/HORSES)
