@@ -1,0 +1,4 @@
+- **Name** - Easy Pronunciation 
+- **Problem Code** - EZSPEAK
+- **Level** - Beginner
+- **Source** - [Link](https://www.codechef.com/problems/EZSPEAK)
