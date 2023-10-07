@@ -1,3 +1,3 @@
 # RATINGS < 1200
 
-- **Problems Solved** - 1
+- **Problems Solved** - 2

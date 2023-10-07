@@ -1,0 +1,4 @@
+- **Name** - CodeChef Streak
+- **Problem Code** - CS2023_STK
+- **Level** - 1*Beginner
+- **Source** - [Link](https://www.codechef.com/practice/PJAAR01/problems/CS2023_STK)
